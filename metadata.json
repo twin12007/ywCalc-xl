@@ -1,0 +1,5 @@
+{
+  "name": "Calculus Quest",
+  "description": "An adaptive learning platform to master calculus concepts, inspired by IXL. Answer questions to increase your score, with difficulty adjusting based on your performance. Reach 100 to win!",
+  "requestFramePermissions": []
+}
